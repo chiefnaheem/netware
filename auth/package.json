@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Auth Microservice",
   "main": "server.js",
-  "repository": "https://github.com/RxGoodness/api-template.git",
+  "repository": "https://github.com/chiefnaheem/netware.git",
   "author": "Naheem Adedokun",
   "license": "MIT",
   "private": true,

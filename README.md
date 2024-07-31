@@ -36,5 +36,6 @@ This project demonstrates a basic microservices-based application with three ser
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-repo/assessment-microservices.git
-   cd assessment-microservices
+   git clone https://github.com/chiefnaheem/netware.git .
+   cd netware
+   ```
