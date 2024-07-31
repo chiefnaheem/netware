@@ -1,10 +1,10 @@
 {
   "name": "api-template",
   "version": "1.0.0",
-  "description": "rxgoodness Auth Microservice",
+  "description": "Product Microservice",
   "main": "server.js",
-  "repository": "https://github.com/RxGoodness/api-template.git",
-  "author": "Toheeb Adedokun",
+  "repository": "https://github.com/chiefnaheem/netware.git",
+  "author": "Naheem Adedokun",
   "license": "MIT",
   "private": true,
   "devDependencies": {
